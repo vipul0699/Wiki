@@ -2,7 +2,7 @@
 
 ### Youtube - https://www.youtube.com/watch?v=gNxlLeQ1B_c&t=77s
 
-This encyclopedia has the functionality similar to that of Wikipedia. 
+This encyclopedia has the functionality similar to that of Wikipedia.
 
 **Functionalities -**
   * View Enteries
@@ -10,5 +10,5 @@ This encyclopedia has the functionality similar to that of Wikipedia.
   * Edit enteries
   * Add enteries
   * Random Page
-  
-  
+ 
+ #### Adding and editing of pages can be done in Github's Markdown 
