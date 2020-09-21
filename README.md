@@ -5,10 +5,10 @@
 This encyclopedia has the functionality similar to that of Wikipedia. 
 
 **Functionalities -**
-  *View enteries*
-  *Search enteries*
-  *Edit enteries*
-  *Add enteries*
-  *Random Page*
+  * View Enteries
+  * Search enteries
+  * Edit enteries
+  * Add enteries
+  * Random Page
   
   
