@@ -1,6 +1,6 @@
 # CS50 Web Project 1 - Wiki
 
-### Youtube - https://www.youtube.com/watch?v=gNxlLeQ1B_c&t=77s
+### Youtube - https://youtu.be/gNxlLeQ1B_c
 
 This encyclopedia has the functionality similar to that of Wikipedia.
 
